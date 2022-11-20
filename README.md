@@ -2,4 +2,14 @@
 
 I like...
 
-`git`, `typescript`, `rust`, `npm`, `yarn`, `low-tech`, `functional-programming`, `cargo`, `cardio`, `resistance`, `knowing-when-then-sun-rises-sets`, `leftovers`, `occupational-movement`, `variety`, `child-pose`, `coffee`, `olympic-lift`, `courier`, `camping`, `python`, `wasm`, `matilda`, `diet`, `sleep`, `stress-management`, `a-properly-balanced-day-structured-for-optimal-x-y-and-z`, `linux`, `ownership`, `borrow-checker`, `wood-working`, `clasp`, `google-workspace`, `maintenance`
+###### technology
+
+`git`, `typescript`, `rust`, `npm`, `yarn`, `functional-programming`, `twelve-factor-app`, `cargo`, `python`, `wasm`, `linux`, `ownership`, `borrow-checker`, `clasp`, `google-workspace`, `vs-code`, `android`, `ios`, `cli`, `graphql`, `docker`, `node`, `react`, `postgresql`, `kanban`
+
+###### fitness
+
+`breath`, `posture`, `cardio`, `resistance`, `knowing-when-then-sun-rises-sets`, `occupational-movement`, `yoga`, `olympic-lift`, `diet`, `sleep`, `stress-management`, `basketball`, `martial-arts`, `swimming`, `sauna`, `cold-shower`
+
+
+###### other 
+`low-tech`, `leftovers`, `variety`, `coffee`, `courier`, `camping`, `matilda`, `a-properly-balanced-day-structured-for-optimal-x-y-and-z`, `wood-working`,  `maintenance`
