@@ -12,4 +12,4 @@ I like...
 
 
 ###### other 
-`low-tech`, `leftovers`, `variety`, `coffee`, `courier`, `camping`, `matilda`, `a-properly-balanced-day-structured-for-optimal-x-y-and-z`, `wood-working`,  `maintenance`, `starcraft`
+`low-tech`, `leftovers`, `variety`, `coffee`, `courier`, `camping`, `matilda`, `a-properly-balanced-day-structured-for-optimal-x-y-and-z`, `wood-working`,  `maintenance`, `starcraft`, `continuing-education`
