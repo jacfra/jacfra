@@ -8,7 +8,7 @@ I like...
 
 ###### fitness
 
-`breath`, `posture`, `cardio`, `resistance`, `knowing-when-then-sun-rises-sets`, `occupational-movement`, `yoga`, `olympic-lift`, `diet`, `sleep`, `stress-management`, `basketball`, `martial-arts`, `swimming`, `sauna`, `cold-shower`, `power-lift`, `hockey`, `recovery`
+`breath`, `posture`, `cardio`, `resistance`, `knowing-when-then-sun-rises-sets`, `occupational-movement`, `yoga`, `olympic-lift`, `diet`, `sleep`, `stress-management`, `basketball`, `martial-arts`, `swimming`, `sauna`, `cold-shower`, `power-lift`, `hockey`, `recovery`, `flexability`, `balance`
 
 
 ###### other 
