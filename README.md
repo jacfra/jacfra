@@ -4,7 +4,7 @@ I like...
 
 ###### technology
 
-`git`, `typescript`, `rust`, `npm`, `yarn`, `functional-programming`, `twelve-factor-app`, `cargo`, `python`, `wasm`, `linux`, `clasp`, `google-workspace`, `vscode`, `android`, `ios`, `cli`, `graphql`, `docker`, `node`, `react`, `postgresql`, `kanban`, `gcloud`, `deno`, `ssh`, `json`, `yml`, `toml`, `openssl`, `tls`, 
+`git`, `typescript`, `rust`, `npm`, `yarn`, `functional-programming`, `twelve-factor-app`, `cargo`, `python`, `wasm`, `linux`, `clasp`, `google-workspace`, `vscode`, `android`, `ios`, `cli`, `graphql`, `docker`, `node`, `react`, `postgresql`, `kanban`, `gcloud`, `deno`, `ssh`, `json`, `yml`, `toml`, `openssl`, `tls`, `anki`
 
 ###### fitness
 
